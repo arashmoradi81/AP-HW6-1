@@ -12,7 +12,17 @@ G:/Arash/c++ clion/Jungle/DomesticAnimal.h
 Animal.h
 G:/Arash/c++ clion/Jungle/Animal.h
 
+G:/Arash/c++ clion/Jungle/Jungle.cpp
+iostream
+-
+Jungle.h
 G:/Arash/c++ clion/Jungle/Jungle.h
+
+G:/Arash/c++ clion/Jungle/Jungle.h
+Animal.h
+G:/Arash/c++ clion/Jungle/Animal.h
+
+G:/Arash/c++ clion/Jungle/Pet.h
 Animal.h
 G:/Arash/c++ clion/Jungle/Animal.h
 
@@ -27,6 +37,8 @@ DomesticAnimal.h
 G:/Arash/c++ clion/Jungle/DomesticAnimal.h
 WildAnimal.h
 G:/Arash/c++ clion/Jungle/WildAnimal.h
+Pet.h
+G:/Arash/c++ clion/Jungle/Pet.h
 iostream
 -
 ctime

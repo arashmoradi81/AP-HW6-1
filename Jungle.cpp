@@ -11,7 +11,7 @@ Jungle::Jungle(int n) : totalFall(0) , index(0) {
     }
 }
 
-int Jungle::getTotalFall() const {
+int Jungle::getTotalFall() const{
     return totalFall;
 }
 
