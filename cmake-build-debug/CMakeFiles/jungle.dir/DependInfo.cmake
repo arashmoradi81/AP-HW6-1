@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/mohammad/CLionProjects/jungle/Animal.cpp" "/cygdrive/c/Users/mohammad/CLionProjects/jungle/cmake-build-debug/CMakeFiles/jungle.dir/Animal.cpp.o"
-  "/cygdrive/c/Users/mohammad/CLionProjects/jungle/DomesticAnimal.cpp" "/cygdrive/c/Users/mohammad/CLionProjects/jungle/cmake-build-debug/CMakeFiles/jungle.dir/DomesticAnimal.cpp.o"
-  "/cygdrive/c/Users/mohammad/CLionProjects/jungle/Jungle.cpp" "/cygdrive/c/Users/mohammad/CLionProjects/jungle/cmake-build-debug/CMakeFiles/jungle.dir/Jungle.cpp.o"
-  "/cygdrive/c/Users/mohammad/CLionProjects/jungle/WildAnimal.cpp" "/cygdrive/c/Users/mohammad/CLionProjects/jungle/cmake-build-debug/CMakeFiles/jungle.dir/WildAnimal.cpp.o"
-  "/cygdrive/c/Users/mohammad/CLionProjects/jungle/main.cpp" "/cygdrive/c/Users/mohammad/CLionProjects/jungle/cmake-build-debug/CMakeFiles/jungle.dir/main.cpp.o"
+  "G:/Arash/c++ clion/Jungle/Animal.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/Animal.cpp.obj"
+  "G:/Arash/c++ clion/Jungle/DomesticAnimal.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/DomesticAnimal.cpp.obj"
+  "G:/Arash/c++ clion/Jungle/Jungle.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/Jungle.cpp.obj"
+  "G:/Arash/c++ clion/Jungle/WildAnimal.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/WildAnimal.cpp.obj"
+  "G:/Arash/c++ clion/Jungle/main.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
