@@ -9,7 +9,7 @@ Animal::Animal() {
 }
 
 void Animal::fall() {
-        cout << "The animal fell" << endl;
+        cout << " The animal fell" << endl;
 }
 
 void Animal::setPosition(double x, double y) {

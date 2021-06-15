@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Arash/c++ clion/Jungle/Animal.h
+
+G:/Arash/c++ clion/Jungle/DomesticAnimal.h
+Animal.h
+G:/Arash/c++ clion/Jungle/Animal.h
+
+G:/Arash/c++ clion/Jungle/Jungle.h
+Animal.h
+G:/Arash/c++ clion/Jungle/Animal.h
+
+G:/Arash/c++ clion/Jungle/WildAnimal.h
+Animal.h
+G:/Arash/c++ clion/Jungle/Animal.h
+
+G:/Arash/c++ clion/Jungle/main.cpp
+Jungle.h
+G:/Arash/c++ clion/Jungle/Jungle.h
+DomesticAnimal.h
+G:/Arash/c++ clion/Jungle/DomesticAnimal.h
+WildAnimal.h
+G:/Arash/c++ clion/Jungle/WildAnimal.h
+iostream
+-
+ctime
+-
+
