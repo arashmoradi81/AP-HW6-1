@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "G:/Arash/c++ clion/Jungle/Animal.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/Animal.cpp.obj"
   "G:/Arash/c++ clion/Jungle/DomesticAnimal.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/DomesticAnimal.cpp.obj"
   "G:/Arash/c++ clion/Jungle/Jungle.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/Jungle.cpp.obj"
+  "G:/Arash/c++ clion/Jungle/Pet.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/Pet.cpp.obj"
   "G:/Arash/c++ clion/Jungle/WildAnimal.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/WildAnimal.cpp.obj"
   "G:/Arash/c++ clion/Jungle/main.cpp" "G:/Arash/c++ clion/Jungle/cmake-build-debug/CMakeFiles/jungle.dir/main.cpp.obj"
   )
